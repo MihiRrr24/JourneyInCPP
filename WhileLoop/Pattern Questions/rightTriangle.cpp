@@ -36,3 +36,5 @@ void printPattern(int n) {
 		row++;
     }
 }
+
+// MIHIRR42
